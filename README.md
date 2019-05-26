@@ -7,3 +7,5 @@ Course-materials是**数值分析**内容的代码实现
 - MATLAB_equation用MATB解非线性方程组
 - Newton_equation用Newton迭代公式解非线性方程组
 - Simple_iteration_equation简单迭代法解非线性方程组
+- Lu-linear_equations LU分解法求线性方程组
+- SOR-linear_equations SOR迭代法求线性方程组
